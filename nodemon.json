@@ -1,0 +1,9 @@
+{
+    "restartable": "rs",
+    "verbose": true,
+    "ignore": ["node_modules", "package.json", "npm-debug.log", ".git", ".gitignore"],
+    "watch": [
+        "server.js",
+        "templates/*"
+    ]
+}
